@@ -12,7 +12,7 @@ package:
     - "Nils Wistoff <nwistoff@iis.ee.ethz.ch>"
 
 dependencies:
-  common_cells: { git: "https://github.com/pulp-platform/common_cells.git", version: 1.21.0 }
+  common_cells: { git: "https://github.com/chorus96/common_cells.git", version: 1.21.0 }
 
 export_include_dirs:
   - include
